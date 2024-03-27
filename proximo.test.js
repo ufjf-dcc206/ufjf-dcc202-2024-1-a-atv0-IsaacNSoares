@@ -1,4 +1,5 @@
-    import {test, expect} from 'vitest';
+    import {test, expect} from "vitest";
+    import {proximo} from "./proximo";
 
 test('Testa se 2+2 são 4', ()=>{
     expect(2+2).toBe(4);
